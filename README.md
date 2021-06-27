@@ -5,6 +5,6 @@
 Demo video: https://youtu.be/hoFLnmyFii8
 
 
---	cargo		--
+--	with cargo 	--
 Use Grove electromagnet and RPi to transport cargo to another car, combining with remote controlling and self tracking.
-Detailed descriptions at cargo/doc/final_proposal.pdf
+Detailed description is at \hyperlink{}{./cargo/doc/final_proposal.pdf}
